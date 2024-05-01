@@ -44,6 +44,8 @@ See [Vitesse](https://github.com/antfu/vitesse) for full featureset.
 
 ## Dropped Features from [Vitesse](https://github.com/antfu/vitesse)
 
+3421
+
 - ~~i18n~~
 - ~~Layouts~~
 - ~~SSG~~
